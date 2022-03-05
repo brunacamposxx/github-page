@@ -1,10 +1,10 @@
-import React from 'react'
-import './testimonial.css'
+import React from 'react';
+import './testimonial.css';
 
-const Testimonial = () => {
+function Testimonial() {
   return (
     <div>Testimonial</div>
-  )
+  );
 }
 
-export default Testimonial
+export default Testimonial;
