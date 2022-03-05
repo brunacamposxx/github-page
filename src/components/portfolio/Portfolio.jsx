@@ -1,10 +1,10 @@
-import React from 'react'
-import './portfolio.css'
+import React from 'react';
+import './portfolio.css';
 
-const Portfolio = () => {
+function Portfolio() {
   return (
     <div>Portfolio</div>
-  )
+  );
 }
 
-export default Portfolio
+export default Portfolio;
