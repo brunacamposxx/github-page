@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 import React from 'react';
 import './about.css';
 import { IoMdSchool } from 'react-icons/io';
@@ -24,7 +25,7 @@ function About() {
             <article className="about__card">
               <IoMdSchool className="about__icon" />
               <h5>Education</h5>
-              <small>01/2022 Bachelor of Science - BS | Computer Science</small>
+              <small>01/2022 BS | Computer Science</small>
             </article>
 
             <article className="about__card">
@@ -39,6 +40,12 @@ function About() {
               <small>+30 Projects</small>
             </article>
           </div>
+          <p>
+            Im Bruna Campos and Im a girl from Rio de Janeiro, Brazil. Currently living in Novo Hamburgo/RS, south of the country.
+            🔭 Full Stack Web Development graduated from Trybe and freshman at Computer Science at Descomplica.
+            ✨ I think about technology as a bridge to connect people. My goal as a developer is to help build solutions through technology that make the future a fairer, sustainable, humanized place with respect for diversity.
+          </p>
+          <a href="#contact" className="btn btn-primary">Let&apos;s Talk</a>
         </div>
       </div>
     </section>
