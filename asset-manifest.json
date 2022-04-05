@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.610f00fc.css",
-    "main.js": "/github-page/static/js/main.c6b40221.js",
+    "main.css": "/github-page/static/css/main.dff9284a.css",
+    "main.js": "/github-page/static/js/main.bac3e66f.js",
     "static/media/foto_perfil.png": "/github-page/static/media/foto_perfil.4fcd9d620cd01e45e8ae.png",
     "static/media/profile-pic.png": "/github-page/static/media/profile-pic.e7ccfd959eb49a39eed5.png",
     "static/media/Profile.pdf": "/github-page/static/media/Profile.c91e5c74ebc2e480fe1a.pdf",
     "index.html": "/github-page/index.html",
-    "main.610f00fc.css.map": "/github-page/static/css/main.610f00fc.css.map",
-    "main.c6b40221.js.map": "/github-page/static/js/main.c6b40221.js.map"
+    "main.dff9284a.css.map": "/github-page/static/css/main.dff9284a.css.map",
+    "main.bac3e66f.js.map": "/github-page/static/js/main.bac3e66f.js.map"
   },
   "entrypoints": [
-    "static/css/main.610f00fc.css",
-    "static/js/main.c6b40221.js"
+    "static/css/main.dff9284a.css",
+    "static/js/main.bac3e66f.js"
   ]
 }
