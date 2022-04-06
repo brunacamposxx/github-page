@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.dff9284a.css",
-    "main.js": "/github-page/static/js/main.bac3e66f.js",
+    "main.css": "/github-page/static/css/main.10d58f76.css",
+    "main.js": "/github-page/static/js/main.51dca50f.js",
+    "static/media/wallet.png": "/github-page/static/media/wallet.d0dd7e1dd65a1068f7c9.png",
+    "static/media/drink_app.jpeg": "/github-page/static/media/drink_app.206660bffdffba0e3fad.jpeg",
+    "static/media/trivia_quiz.png": "/github-page/static/media/trivia_quiz.90309e19862a152b120d.png",
     "static/media/foto_perfil.png": "/github-page/static/media/foto_perfil.4fcd9d620cd01e45e8ae.png",
+    "static/media/e-commerce.png": "/github-page/static/media/e-commerce.5ac9b77f3296ec3af15b.png",
     "static/media/profile-pic.png": "/github-page/static/media/profile-pic.e7ccfd959eb49a39eed5.png",
+    "static/media/food_app.png": "/github-page/static/media/food_app.6af2b6a50e45c6ff5bf1.png",
     "static/media/Profile.pdf": "/github-page/static/media/Profile.c91e5c74ebc2e480fe1a.pdf",
     "index.html": "/github-page/index.html",
-    "main.dff9284a.css.map": "/github-page/static/css/main.dff9284a.css.map",
-    "main.bac3e66f.js.map": "/github-page/static/js/main.bac3e66f.js.map"
+    "main.10d58f76.css.map": "/github-page/static/css/main.10d58f76.css.map",
+    "main.51dca50f.js.map": "/github-page/static/js/main.51dca50f.js.map"
   },
   "entrypoints": [
-    "static/css/main.dff9284a.css",
-    "static/js/main.bac3e66f.js"
+    "static/css/main.10d58f76.css",
+    "static/js/main.51dca50f.js"
   ]
 }
